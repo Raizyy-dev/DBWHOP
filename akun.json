@@ -1,6 +1,6 @@
 [ 
   {
-   username: "nama",
-   password: "pw"
+   "username": "nama",
+   "password": "pw"
    }
 ]
